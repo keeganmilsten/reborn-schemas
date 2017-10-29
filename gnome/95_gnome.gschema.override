@@ -1,3 +1,9 @@
+[org.gnome.software]
+download-updates=false
+show-nonfree-software=true
+allow-updates=false
+show-ratings=true
+
 [org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 use-theme-colors=false
 visible-name='reborn'
