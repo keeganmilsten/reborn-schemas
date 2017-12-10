@@ -21,3 +21,9 @@ favorite-apps=['nemo.desktop', 'chromium.desktop', 'pamac.desktop', 'gnome-termi
 keyboard-applet-use-flags=false
 panels-enabled=['1:0:bottom']
 next-applet-id=12
+
+[org.gnome.software]
+download-updates=false
+show-nonfree-software=true
+allow-updates=false
+show-ratings=true
