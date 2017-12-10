@@ -160,3 +160,9 @@ logout-prompt=true
 
 [org.mate.thumbnailers]
 disable-all=false
+
+[org.gnome.software]
+download-updates=false
+show-nonfree-software=true
+allow-updates=false
+show-ratings=true
