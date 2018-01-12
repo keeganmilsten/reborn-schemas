@@ -1,6 +1,3 @@
-[org.mate.Marco.general]
-theme='Flat-Plat-Blue-light-compact'
-
 [org.mate.Marco.keybinding-commands]
 command-1='sudo killall X'
 command-screenshot='mate-screenshot'
@@ -64,8 +61,6 @@ rgba-order='rgb'
 enable-animations=true
 file-chooser-backend='gtk+'
 font-name='Sans'
-gtk-theme='Flat-Plat-Blue-light-compact'
-icon-theme='Numix-Circle'
 
 [org.mate.panel]
 confirm-panel-remove=true
