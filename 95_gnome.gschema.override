@@ -8,7 +8,7 @@ clock-format='24h'
 clock-show-date=true
 clock-show-seconds=false
 gtk-theme='Flat-Plat-Blue-light'
-icon-theme='Numix-Circle'
+icon-theme='Flat-Remix'
 
 [org.gnome.desktop.peripherals.touchpad]
 natural-scroll=true
@@ -30,7 +30,7 @@ sources=[('xkb','us')]
 button-layout='appmenu:minimize,maximize,close'
 
 [org.gnome.shell.extensions.user-theme]
-name='macOS-Sierra'
+name='Flat-Plat-Blue'
 
 [org.gnome.nautilus.preferences]
 show-create-link=true
