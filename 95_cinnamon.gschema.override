@@ -6,6 +6,9 @@ icon-theme = 'Flat-Remix'
 [org.cinnamon.desktop.wm.preferences]
 theme = 'Flat-Plat-Blue-light-compact'
 
+[org.cinnamon.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/gnome/Fabric.jpg'
+
 [org.cinnamon.settings-daemon.peripherals.touchpad]
 vertical-two-finger-scrolling=true
 horizontal-two-finger-scrolling=true
