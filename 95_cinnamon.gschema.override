@@ -1,5 +1,10 @@
 [org.cinnamon.desktop.interface]
 keyboard-layout-show-flags=true
+gtk-theme = 'Flat-Plat-Blue-light-compact'
+icon-theme = 'Flat-Remix'
+
+[org.cinnamon.desktop.wm.preferences]
+theme = 'Flat-Plat-Blue-light-compact'
 
 [org.cinnamon.settings-daemon.peripherals.touchpad]
 vertical-two-finger-scrolling=true
