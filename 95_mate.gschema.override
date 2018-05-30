@@ -1,3 +1,7 @@
+[org.mate.desktop.interface]
+gtk-theme='Flat-Plat-Blue-light-compact'
+icon-theme='Flat-Remix'
+
 [org.mate.Marco.keybinding-commands]
 command-1='sudo killall X'
 command-screenshot='mate-screenshot'
